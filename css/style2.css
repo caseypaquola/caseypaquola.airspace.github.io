@@ -1,0 +1,103 @@
+/*
+ * This css file includes styles added in the jekyll port of this theme.
+ * To find the original style.css that ships with Airspace, read airspace.css
+ *
+ */
+
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+.section-sm {
+  padding: 70px 0;
+}
+
+/*=================================================================
+  Pricing section
+==================================================================*/
+.pricing-table .pricing-item {
+  padding: 40px 20px;
+  background: #f9f9f9;
+  box-shadow: 0 8px 15px 0 rgba(5, 57, 106, 0.06);
+}
+
+.btn-main, .btn-transparent, .btn-small {
+  background: #655E7A;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 14px 35px;
+  text-transform: uppercase;
+  border-radius: 0;
+  transition: all 0.2s ease;
+}
+
+.pricing-table .pricing-item a.btn-main, .pricing-table .pricing-item a.btn-transparent, .pricing-table .pricing-item a.btn-small {
+  text-transform: uppercase;
+  margin-top: 40px;
+}
+
+.pricing-table .pricing-item li {
+  font-weight: 400;
+  padding: 6px 0;
+  color: #666;
+}
+
+.pricing-table .pricing-item li i {
+  margin-right: 6px;
+  color: #655E7A;
+}
+
+.pricing-table .price-title {
+  padding: 30px 0 20px;
+}
+
+.pricing-table .price-title > h3 {
+  font-weight: 700;
+  margin: 0 0 5px;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.pricing-table .price-title > p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  margin-top: 5px;
+}
+
+.pricing-table .price-title .value {
+  color: #655E7A;
+  font-size: 20px;
+  padding: 10px 0;
+}
+
+/*---------------------------------------------
+					Pricing close 
+-----------------------------------------------*/
