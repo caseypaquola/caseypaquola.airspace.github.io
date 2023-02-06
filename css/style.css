@@ -3060,4 +3060,9 @@ ul.dropdown-menu li {
   background-color: #333;
 }
 
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
