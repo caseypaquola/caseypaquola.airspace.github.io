@@ -3065,4 +3065,15 @@ ul.dropdown-menu li {
   height: auto;
 }
 
+
+.img {
+vertical-align: middle;
+border-style: none;
+}
+
+.img {
+overflow-clip-margin: content-box;
+overflow: clip;
+}
+
 /*# sourceMappingURL=style.css.map */
