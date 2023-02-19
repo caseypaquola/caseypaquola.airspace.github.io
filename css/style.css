@@ -62,6 +62,13 @@ p {
   line-height: 1.7;
 }
 
+q {
+  color: #fff;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.7;
+}
+
 ol,
 ul {
   margin: 0;
@@ -1491,7 +1498,7 @@ ul.dropdown-menu li {
 
 .pricing-table .price-title .value {
   color: #655E7A;
-  font-size: 50px;
+  font-size: 20px;
   padding: 10px 0;
 }
 
